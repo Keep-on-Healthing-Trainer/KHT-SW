@@ -1,4 +1,4 @@
-// Micro
+// Pro Mini
 
 #include <SoftwareSerial.h>
 
